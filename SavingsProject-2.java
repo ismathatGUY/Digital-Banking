@@ -1,4 +1,4 @@
-/*Imani Wanyoike, 32353884, iwanyoik@u.rochester.edu, Ismael Kabore 32107272, ikabore@u.rochester.edu lab section 1 oct 6, 2022 Project 1 */
+
 import java.util.Scanner;
 
 public class SavingsProject {
